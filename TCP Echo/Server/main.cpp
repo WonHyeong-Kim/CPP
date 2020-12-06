@@ -3,7 +3,7 @@
 #include <winsock2.h>
 
 using namespace std;
-
+//20201206 upload
 void ShowErrorMessage(string message)
 {
 	cout<<"[Error]"<<message<<endl;
